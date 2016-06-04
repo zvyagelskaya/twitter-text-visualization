@@ -1,7 +1,4 @@
-setwd("/home/yz/Documentos/BigData/Project!!!")
-tweetframe <- read.csv(file="tourists_residents_eng.csv", header=TRUE, sep=",")
 # required pakacges
-
 library(tm)
 library(wordcloud)
 library(stringr)
